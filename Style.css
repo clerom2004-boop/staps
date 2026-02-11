@@ -1,0 +1,23 @@
+body{
+	background-image: url("ldc.jpg"); 
+	background-size: 100%;
+}
+p{
+	color: red;
+	background-color: yellow;
+	font-family: Arial;
+}
+h2{
+	color: green;
+}
+.special
+{
+	background-color: pink;
+}
+div
+{
+	border: 4px red solid;
+	border-radius: 35px ;
+	width: 500px;
+	height: 400px;
+}
